@@ -1,0 +1,4 @@
+-3 datasets were used as follows: covid19 confirmed dataset, happiness dataset, covid19 deaths dataset
+-and the reference paper used for the project was: Covid19 Candidate treatments, a data analytics approach
+-The project was implemented in jupyter notebook and various libraries were used for mapping plots and graphs and also to analyze the datasets: seaborn, matplot, numpy, pandas
+- the report and pdf are also supplementary productions.
